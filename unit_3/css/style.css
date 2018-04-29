@@ -1,0 +1,22 @@
+body {
+	background-color: #696969;
+}
+h1 {font-family: Arial, sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+
+h2, p {
+	color: #FFFF66;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-size: 16px;
+}
+ul {font-family: Helvetica;
+	font-size: 14px;
+	font-weight: normal;
+
+}
