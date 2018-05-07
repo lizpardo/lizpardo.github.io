@@ -11,11 +11,13 @@ body {
 section {
 	padding:5em 0;
 }
+
 h1 {
 	font-family: 'Caveat', serif;
 	font-size: 2.5em;
 	background-color: #A9A9A9;
 }
+
 h2 {
 	font-family: 'Caveat', serif;
 	font-size: 2em;
@@ -26,11 +28,13 @@ p {
 	color: #FFFF66;
 	font-weight: normal;
 }
+
 ul {
 	font-family: 'Montserrat';
 	padding-left:1.25em;
 	color: #FFFF66;
 }
+
 li {font-family: 'Montserrat';
 	color: #FFFF66;
 	padding-left:1.25em;
