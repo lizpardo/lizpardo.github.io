@@ -19,9 +19,9 @@ nav {
 	border: 1px black solid;
 	padding: 20px;
 	}
-	
+
 .hero-image {
-	background-image: "sargesleepy.jpg";
+	background-image: url('sargesleepy.jpg');
 	height: 50%;
 	background-position: center;
     background-repeat: no-repeat;
