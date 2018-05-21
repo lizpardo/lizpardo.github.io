@@ -19,6 +19,24 @@ nav {
 	border: 1px black solid;
 	padding: 20px;
 	}
+.hero-image {
+	background-image: "sargesleepy.jpg";
+	height: 50%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
+
+.hero-text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
 section { 
 	background-color: #FFE2B8;
 	border: 1px black solid;
