@@ -19,6 +19,10 @@ nav {
 	border: 1px black solid;
 	padding: 20px;
 	}
+#logo {
+	width: 100px;
+}
+
 
 #hero-image {
 	background-image: url('https://i.imgur.com/LRUsuDQ.jpg');
