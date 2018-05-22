@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Caveat');
 @import url('https://fonts.googleapis.com/css?family=Caveat|Montserrat');
 * { margin:0; padding:0; box-sizing:border-box;}
-img { width:300px;}
+img { width:100px;}
 body {
 	background-color: #383838;
 	font-family: Arial, sans-serif;
