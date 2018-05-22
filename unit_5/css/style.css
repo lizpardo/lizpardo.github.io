@@ -25,10 +25,9 @@ nav {
 
 
 #hero-image {
-	background-image: url('https://i.imgur.com/LRUsuDQ.jpg');
+	background-image: url('images/sargecollage.jpg');
 	display: block;
-  width: 50%;
-  height: 400px;
+  width: 100%;
   margin: 0;
 }
 
