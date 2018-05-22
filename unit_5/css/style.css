@@ -17,11 +17,22 @@ header {
 	padding: 20px;
 }
 
+.container1 {
+	height: 70px
+	width: 70px;
+}
+
+.container1 img {
+	width: 100%;
+	height: auto;
+}
+
 .logo {
 	height: 50px;
 	width: 50px;
 	padding-bottom: 20px;
 }
+
 
 nav {
 	background-color: #ccff74;
