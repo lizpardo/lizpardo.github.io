@@ -59,13 +59,13 @@ nav {
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #about { 
-	background-color: violet;
+	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
@@ -73,7 +73,7 @@ nav {
 }
 
 #whyplay {
-	background-color: pink;
+	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
