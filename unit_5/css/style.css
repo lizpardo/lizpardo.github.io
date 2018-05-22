@@ -89,15 +89,20 @@ nav {
 	height: 0;
 }
 
+#book {
+	text-align: center;
+	
+}
+
 
 section { 
-	background-color: #FFE2B8;
+	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
  }
 
 footer {
-	background-color: #FFED74;
+	background-color: #ccff74;
 	border: 1px black solid;
 	padding: 20px;
 }
