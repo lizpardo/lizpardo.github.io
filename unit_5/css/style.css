@@ -1,13 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Caveat');
 @import url('https://fonts.googleapis.com/css?family=Caveat|Montserrat');
 * { margin:0; padding:0; box-sizing:border-box;}
-img { 
+img {
 	width:300px;
-	height:300px;
 }
 body {
-	background-color: #383838;
-	font-family: Arial, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size:16px;
 	line-height:1.3;
 }
@@ -16,40 +13,26 @@ header {
 	border: 1px black solid;
 	padding: 20px;
 }
-
-.container1 {
-	height: 70px
-	width: 70px;
-}
-
-.container1 img {
-	width: 100%;
-	height: auto;
-}
-
-.logo {
-	height: 50px;
-	width: 50px;
-	padding-bottom: 20px;
-}
-
-
 nav {
 	background-color: #ccff74;
 	border: 1px black solid;
 	padding: 20px;
-	}
-
-.hero-image {
+}
+.logo {
+	width:100px;
+}
+.logo img {
+	width:100%;
+}
+#intro {
 	background-image: url(https://i.imgur.com/LRUsuDQ.jpg);
-	height: 50%;
+	height: 50vh;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
 }
-
-.hero-text {
+#hero-text {
     text-align: center;
     position: absolute;
     top: 50%;
@@ -57,29 +40,13 @@ nav {
     transform: translate(-50%, -50%);
     color: black;
 }
-
-#two_column {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#about { 
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
+#about, #whyplay {
+	padding: 4em;
 	float: left;
-	width: 62%;
+	width: 50%;
 }
-
 #whyplay {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 30%;
 }
-
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -91,15 +58,15 @@ nav {
 
 #book {
 	text-align: center;
-	
+	clear: both;
 }
 
 
-section { 
+section {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
- }
+	}
 
 footer {
 	background-color: #ccff74;
@@ -123,20 +90,10 @@ h2 {
 	font-size: 2em;
 	background-color: #A9A9A9;
 }
-
-p {
-	font-family: 'Montserrat';
-	color: black;
-	font-weight: normal;
-}
-
 ul {
-	font-family: 'Montserrat';
 	padding-left:1.25em;
-	color: black;
 }
-
-li {font-family: 'Montserrat';
-	color: black;
-	padding-left:1.25em;
+.example img {
+    width: 50%;
+    float: left;
 }
