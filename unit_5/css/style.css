@@ -14,7 +14,9 @@ header {
 nav {
 	background-color: #ccff74;
 	border: 1px black solid;
-	padding: 20px;
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
 }
 .logo {
 	width:100px;
@@ -29,6 +31,7 @@ nav {
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
+	width: 100%;
 }
 #hero-text {
     text-align: center;
@@ -82,7 +85,15 @@ section {
 	border: 1px black solid;
 	padding: 20px;
 	}
-
+	
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
 footer {
 	background-color: #ccff74;
 	border: 1px black solid;
