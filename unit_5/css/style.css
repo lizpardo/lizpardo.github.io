@@ -15,13 +15,16 @@ nav {
 	background-color: #ccff74;
 	text-decoration: none;
 	border: 1px black solid;
+	display: block;
 	width: 100%;
+	padding: 20px;
 }
 
 a {
 	background-color: #ccff74;
 	font-color: black;
 	transition: background-color .5s;
+	float: left;
 }
 
 a:hover {
