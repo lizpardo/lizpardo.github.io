@@ -33,6 +33,7 @@ a:hover {
 }
 .logo {
 	width:100px;
+	padding-bottom: 5%;
 }
 .logo img {
 	width:100%;
@@ -53,15 +54,15 @@ a:hover {
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
+    background-color: #A9A9A9;
 }
+
 #about {
 	padding: 4em;
 	float: left;
 	width: 50%;
 }
-#about {
 
-}
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -70,13 +71,13 @@ a:hover {
 	clear: both;
 	height: 0;
 }
+
 #whyplay {
 	padding: 4em;
 	float: right;
 	width: 50%;
 }
-#whyplay {
-}
+
 .clearfix:after {
 	visibility: hidden;
 	display: block;
@@ -120,14 +121,14 @@ section {
 h1 {
 	font-family: 'Caveat', serif;
 	font-size: 2.5em;
-	background-color: #A9A9A9;
+	background-color: #ff74cc;;
 	text-align: center;
 }
 
 h2 {
 	font-family: 'Caveat', serif;
 	font-size: 2em;
-	background-color: #A9A9A9;
+	background-color: #ff74cc;
 }
 ul {
 	padding-left:1.25em;
