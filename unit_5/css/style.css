@@ -38,9 +38,25 @@ nav {
     transform: translate(-50%, -50%);
     color: black;
 }
-#about, #whyplay {
+#about {
 	padding: 4em;
 	float: left;
+	width: 50%;
+}
+#about {
+
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+#whyplay {
+	padding: 4em;
+	float: right;
 	width: 50%;
 }
 #whyplay {
@@ -57,6 +73,7 @@ nav {
 #book {
 	text-align: center;
 	clear: both;
+	background-color: #74ccff;
 }
 
 
