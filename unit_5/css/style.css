@@ -21,6 +21,7 @@ nav {
 }
 
 a {
+	background-color: #ccff74;
 	font-color: black;
 	transition: background-color .5s;
 }
