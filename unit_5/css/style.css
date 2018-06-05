@@ -144,10 +144,6 @@ ul {
 	img {
 		width: 320px;
 	}
-	#about {
-		font-size: 1.4em;
-		line-height: 1.8em;
-	}
 }
 
 @media only screen and (max-width: 480px)
