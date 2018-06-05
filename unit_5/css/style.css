@@ -22,7 +22,8 @@ nav {
 
 a {
 	background-color: #ccff74;
-	font-color: black;
+	color: black;
+	text-decoration: none;
 	transition: background-color .5s;
 	float: left;
 }
