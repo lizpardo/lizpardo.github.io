@@ -166,6 +166,10 @@ padding-left:2em;
 img {
 width: 320px;
 }
+p {
+	overflow-x: hidden;
+	width: 50%;
+}
 }
 
 @media only screen and (max-width: 480px)
