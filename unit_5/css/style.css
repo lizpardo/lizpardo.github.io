@@ -66,6 +66,7 @@ width: 100%;
     transform: translate(-50%, -50%);
     color: black;
     background-color: #ff74cc;
+    padding: 2em;
 }
 
 #about {
