@@ -213,10 +213,17 @@ text-align: center;
     width: 100%;
     padding: .6em;
   }
+#intro {
+	background-image: 100%
+	height: auto;
+}
+
+
   #about {
   	float: none;
   	font-size: 1.4em;
   }
+
 
 }
 
