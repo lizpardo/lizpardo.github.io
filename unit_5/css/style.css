@@ -163,6 +163,11 @@ padding-left:2em;
 }
 
 @media only screen and (max-width: 800px) {
+h1, nav {
+	display: block;
+	text-align: center;
+}
+
 img {
 width: 320px;
 }
@@ -170,9 +175,7 @@ p {
 	overflow-x: hidden;
 	width: 50%;
 }
-html {
-	font-size: 2vw;
-}
+
 }
 
 @media only screen and (max-width: 480px)
@@ -210,6 +213,11 @@ text-align: center;
     width: 100%;
     padding: .6em;
   }
+  #about {
+  	float: none;
+  	font-size: 1.4em;
+  }
+
 }
 
 
